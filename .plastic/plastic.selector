@@ -1,0 +1,4 @@
+repository "KitchenChaos@unityzzl@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
